@@ -127,6 +127,110 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "GLTO-WBNB Token",
+      "address": "0xD80283e7B4f824A9575dFE788D0d1dBf45C5FF0D",
+      "symbol": "GLTO-WBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "WBNB-BUSD Token",
+      "address": "0xdfaf4aF334AB85d43500b4E7edfA570c307b79D9",
+      "symbol": "WBNB-BUSD",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "USDT-BUSD Token",
+      "address": "0xa51D08793EBfa0B69b477109dB999ED0a9FaCeEd",
+      "symbol": "USDT-BUSD",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "BTCB-WBNB Token",
+      "address": "0x2563aeBafb08e6A8db5a06f1Da0dA700756FEeCe",
+      "symbol": "BTCB-WBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "ETH-WBNB Token",
+      "address": "0x6f4e54794F43622c4a244BB1a40F27eE37f93C76",
+      "symbol": "ETH-WBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "DAI-BUSD Token",
+      "address": "0x2b2e3FA83b47F4a25b8fe7fce786AD008710Bdf4",
+      "symbol": "DAI-BUSD",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "USDC-BUSD Token",
+      "address": "0xe3d47962986003B31B2bE49B1B59280A5CeAe9e7",
+      "symbol": "USDC-BUSD",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "DOT-WBNB Token",
+      "address": "0x2076147Fe616baFadABE72B50634199375bB2D92",
+      "symbol": "DOT-WBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "CAKE-BNB Token",
+      "address": "0x16e8110E7a0cD5fA1CE1CAD318ebfdF85344bbd6",
+      "symbol": "CAKE-BNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "YAKUZA-WBNB Token",
+      "address": "0x363F65f31929c51677D347d7B96a11B7407DdC7D",
+      "symbol": "YAKUZA-WBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "YAKUZA-BUSD Token",
+      "address": "0x1f159871597f4446C3680Df368Eb2EB62e729D15",
+      "symbol": "YAKUZA-BUSD",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "KATANA-WBNB Token",
+      "address": "0x3B31E81DCfF96A86abd4f8577c910903B1Af5578",
+      "symbol": "KATANA-WBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "KATANA-BUSD Token",
+      "address": "0xaAeb1610F89a06fb80557364f19808a6d10318DE",
+      "symbol": "KATANA-BUSD",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
     }
   ],
   "version": {
